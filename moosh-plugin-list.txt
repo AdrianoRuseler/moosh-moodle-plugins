@@ -1147,7 +1147,7 @@ mod_certificate,2.0,2.1,2.2,2.3,2.4,2.5,2.6,3.0,3.1,3.2,3.3,https://moodle.org/p
 mod_certificateswall,2.0,2.1,2.2,2.3,2.4,https://moodle.org/plugins/download.php/1857/mod_certificateswall_moodle24_2012121301.zip
 mod_checklist,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26180/mod_checklist_moodle40_2022012200.zip
 mod_checkmark,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/27091/mod_checkmark_moodle311_2021052805.zip
-mod_choicegroup,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25056/mod_choicegroup_moodle311_2021083100.zip
+mod_choicegroup,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27485/mod_choicegroup_moodle40_2022090500.zip
 mod_citizencam,3.2,3.3,3.4,https://moodle.org/plugins/download.php/15629/mod_citizencam_moodle34_2017120705.zip
 mod_clearlesson,3.1,3.2,3.3,3.4,3.5,https://moodle.org/plugins/download.php/16828/mod_clearlesson_moodle35_2017091203.zip
 mod_clickview,3.11,https://moodle.org/plugins/download.php/25671/mod_clickview_moodle311_2021083003.zip
@@ -1714,7 +1714,7 @@ theme_aerie,2.0,2.1,2.2,https://moodle.org/plugins/download.php/1606/theme_aerie
 theme_afterburner,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/11967/theme_afterburner_moodle31_2016080900.zip
 theme_aigne,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/21370/theme_aigne_moodle38_2020040138.zip
 theme_allc,2.1,https://moodle.org/plugins/download.php/475/theme_allc_moodle21_2.zip
-theme_almondb,4.0,https://moodle.org/plugins/download.php/27415/theme_almondb_moodle40_2022082400.zip
+theme_almondb,4.0,https://moodle.org/plugins/download.php/27483/theme_almondb_moodle40_2022090400.zip
 theme_anomaly,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/11986/theme_anomaly_moodle30_2016081300.zip
 theme_archaius,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,https://moodle.org/plugins/download.php/9982/theme_archaius_moodle30_2015112300.zip
 theme_arialist,2.7,2.8,2.9,3.0,3.1,3.2,https://moodle.org/plugins/download.php/5790/theme_arialist_moodle32_2014041400.zip
