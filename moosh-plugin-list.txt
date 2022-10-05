@@ -1888,7 +1888,7 @@ tool_cohortautoroles,3.1,https://moodle.org/plugins/download.php/12388/tool_coho
 tool_cohortdatabase,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27452/tool_cohortdatabase_moodle40_2022083102.zip
 tool_cohortheader,3.10,3.11,https://moodle.org/plugins/download.php/24760/tool_cohortheader_moodle311_2021070404.zip
 tool_cohortsync,3.1,3.11,3.6,3.7,3.8,https://moodle.org/plugins/download.php/27596/tool_cohortsync_moodle311_2021112500.zip
-tool_coursearchiver,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26515/tool_coursearchiver_moodle40_2022042200.zip
+tool_coursearchiver,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27662/tool_coursearchiver_moodle40_2022100400.zip
 tool_courseautoapprove,3.6,https://moodle.org/plugins/download.php/19143/tool_courseautoapprove_moodle36_2019030700.zip
 tool_coursedates,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/22237/tool_coursedates_moodle40_2020081400.zip
 tool_coursefields,3.11,3.7,3.8,https://moodle.org/plugins/download.php/27266/tool_coursefields_moodle311_2021071602.zip
