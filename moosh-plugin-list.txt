@@ -1094,7 +1094,7 @@ logstore_graylog,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/128
 logstore_lanalytics,3.10,3.11,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27373/logstore_lanalytics_moodle40_2022081800.zip
 logstore_splunk,3.0,3.1,https://moodle.org/plugins/download.php/11098/logstore_splunk_moodle31_2016041900.zip
 logstore_trax,3.5,3.9,https://moodle.org/plugins/download.php/25342/logstore_trax_moodle39_2020060900.zip
-logstore_xapi,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/21262/logstore_xapi_moodle38_2020032801.zip
+logstore_xapi,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/21262/logstore_xapi_moodle38_2020032801.zip
 ltisource_ecohub,3.3,https://moodle.org/plugins/download.php/16843/ltisource_ecohub_moodle33_2018041700.zip
 ltisource_message_handler,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21302/ltisource_message_handler_moodle311_2020040300.zip
 media_jwplayer,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25954/media_jwplayer_moodle311_2022020500.zip
@@ -1307,7 +1307,7 @@ mod_pdfparts,2.5,https://moodle.org/plugins/download.php/4409/mod_pdfparts_moodl
 mod_peerwork,3.10,3.11,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27509/mod_peerwork_moodle40_2022062600.zip
 mod_percipio,3.10,3.11,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27096/mod_percipio_moodle40_2022022121.zip
 mod_playlist,2.3,2.4,2.5,2.6,2.7,2.8,https://moodle.org/plugins/download.php/5309/mod_playlist_moodle28_2013052001.zip
-mod_plugnmeet,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27626/mod_plugnmeet_moodle40_2022092800.zip
+mod_plugnmeet,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27745/mod_plugnmeet_moodle40_2022101900.zip
 mod_poasassignment,2.2,2.3,2.4,https://moodle.org/plugins/download.php/2202/mod_poasassignment_moodle24_2013021601.zip
 mod_poster,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/24864/mod_poster_moodle40_2021022101.zip
 mod_publication,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26808/mod_publication_moodle40_2022050400.zip
@@ -1425,7 +1425,7 @@ plagiarism_turnitin,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/27
 plagiarism_turnitinsim,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/27595/plagiarism_turnitinsim_moodle40_2022092101.zip
 plagiarism_unicheck,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/24167/plagiarism_unicheck_moodle40_2020090106.zip
 plagiarism_unplag,2.7,2.8,2.9,3.0,3.1,3.2,3.3,https://moodle.org/plugins/download.php/17631/plagiarism_unplag_moodle33_2017121408.zip
-plagiarism_urkund,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/24962/plagiarism_urkund_moodle40_2021081801.zip
+plagiarism_urkund,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27743/plagiarism_urkund_moodle40_2022101900.zip
 plagiarism_vericite,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,https://moodle.org/plugins/download.php/15741/plagiarism_vericite_moodle34_2017121400.zip
 portfolio_blogexport,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,https://moodle.org/plugins/download.php/19685/portfolio_blogexport_moodle37_2018053100.zip
 portfolio_boxnet,4.0,https://moodle.org/plugins/download.php/26231/portfolio_boxnet_moodle40_2022032400.zip
