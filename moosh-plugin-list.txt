@@ -295,7 +295,7 @@ block_dataformaccessview,2.6,2.7,2.8,2.9,3.0,3.3,https://moodle.org/plugins/down
 block_dataformnotification,2.6,2.7,2.8,2.9,3.0,3.3,https://moodle.org/plugins/download.php/15955/block_dataformnotification_moodle33_2017051502.zip
 block_dedication,1.9,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21328/block_dedication_moodle311_2020041000.zip
 block_definitions,3.10,3.11,3.8,3.9,https://moodle.org/plugins/download.php/24650/block_definitions_moodle311_2021072101.zip
-block_deft,3.11,4.0,https://moodle.org/plugins/download.php/27775/block_deft_moodle40_2022071724.zip
+block_deft,3.11,4.0,https://moodle.org/plugins/download.php/27785/block_deft_moodle40_2022071725.zip
 block_demostudent,2.4,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.4,3.5,3.6,3.7,3.8,4.0,https://moodle.org/plugins/download.php/20469/block_demostudent_moodle40_2019101800.zip
 block_desp,2.0,2.1,2.2,2.3,2.4,2.5,https://moodle.org/plugins/download.php/3885/block_desp_moodle25_2013090401.zip
 block_dictionary,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,https://moodle.org/plugins/download.php/7583/block_dictionary_moodle28_2014122400.zip
@@ -1212,7 +1212,7 @@ mod_forumanon,2.1,https://moodle.org/plugins/download.php/207/mod_forumanon_mood
 mod_forumng,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.9,3.0,3.1,3.11,3.2,3.3,3.4,3.8,3.9,https://moodle.org/plugins/download.php/25578/mod_forumng_moodle311_2021021802.zip
 mod_forumqta,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.2,3.3,https://moodle.org/plugins/download.php/15404/mod_forumqta_moodle33_2017111711.zip
 mod_furnace,2.0,2.1,2.2,2.3,https://moodle.org/plugins/download.php/1028/mod_furnace_moodle23_2012062600.zip
-mod_game,1.9,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27494/mod_game_moodle40_2022083100.zip
+mod_game,1.9,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27781/mod_game_moodle40_2022101900.zip
 mod_gcanvas,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27359/mod_gcanvas_moodle40_2022080800.zip
 mod_geogebra,1.9,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25845/mod_geogebra_moodle311_2021120700.zip
 mod_giportfolio,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,https://moodle.org/plugins/download.php/12694/mod_giportfolio_moodle32_2016112100.zip
@@ -1224,7 +1224,7 @@ mod_groupformation,2.9,3.10,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/p
 mod_groupmembers,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26500/mod_groupmembers_moodle40_2022042100.zip
 mod_groupoverview,3.0,https://moodle.org/plugins/download.php/11480/mod_groupoverview_moodle30_2016060700.zip
 mod_groupselect,2.1,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21152/mod_groupselect_moodle311_2020030600.zip
-mod_grouptool,2.8,2.9,3.1,3.10,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27290/mod_grouptool_moodle40_2022072000.zip
+mod_grouptool,2.8,2.9,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27783/mod_grouptool_moodle40_2022072001.zip
 mod_guidedquiz,1.9,https://moodle.org/plugins/download.php/431/mod_guidedquiz_moodle19_2012011700.zip
 mod_gwpayments,3.11,4.0,https://moodle.org/plugins/download.php/26456/mod_gwpayments_moodle40_2021081602.zip
 mod_hatsize,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/12524/mod_hatsize_moodle31_2016062902.zip
@@ -1408,7 +1408,7 @@ paygw_mollie,3.10,3.11,https://moodle.org/plugins/download.php/24979/paygw_molli
 paygw_paynl,3.10,3.11,https://moodle.org/plugins/download.php/25036/paygw_paynl_moodle311_2021080104.zip
 paygw_stripe,3.11,4.0,https://moodle.org/plugins/download.php/27740/paygw_stripe_moodle40_2022101700.zip
 paygw_wechat,3.10,3.11,https://moodle.org/plugins/download.php/24242/paygw_wechat_moodle311_2021052506.zip
-plagiarism_compilatio,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27628/plagiarism_compilatio_moodle40_2022092800.zip
+plagiarism_compilatio,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27784/plagiarism_compilatio_moodle40_2022102101.zip
 plagiarism_copycheck,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/20688/plagiarism_copycheck_moodle38_2019112500.zip
 plagiarism_copyleaks,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27393/plagiarism_copyleaks_moodle40_2022082100.zip
 plagiarism_crot,2.0,2.1,2.2,2.3,2.4,2.5,https://moodle.org/plugins/download.php/4032/plagiarism_crot_moodle25_2013061400.zip
