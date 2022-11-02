@@ -23,7 +23,7 @@ assignsubmission_changes,3.3,3.4,https://moodle.org/plugins/download.php/15724/a
 assignsubmission_cincopa,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27776/assignsubmission_cincopa_moodle40_2022102100.zip
 assignsubmission_cloudpoodll,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27700/assignsubmission_cloudpoodll_moodle40_2022100700.zip
 assignsubmission_collabora,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26331/assignsubmission_collabora_moodle40_2022030602.zip
-assignsubmission_estream,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27071/assignsubmission_estream_moodle40_2022071200.zip
+assignsubmission_estream,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27826/assignsubmission_estream_moodle40_2022110100.zip
 assignsubmission_geogebra,2.7,2.8,2.9,3.0,3.1,3.2,3.3,https://moodle.org/plugins/download.php/12292/assignsubmission_geogebra_moodle33_2016092600.zip
 assignsubmission_gradereviews,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/26255/assignsubmission_gradereviews_moodle311_2018102601.zip
 assignsubmission_helixassign,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25905/assignsubmission_helixassign_moodle311_2022012501.zip
@@ -752,7 +752,7 @@ filter_multilangsecond,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,https://moodle.or
 filter_oembed,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/20691/filter_oembed_moodle39_2019112600.zip
 filter_opencast,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/26218/filter_opencast_moodle40_2022031800.zip
 filter_planetestream,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/12178/filter_planetestream_moodle40_2016090800.zip
-filter_poodll,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27723/filter_poodll_moodle40_2022082200.zip
+filter_poodll,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27831/filter_poodll_moodle40_2022110200.zip
 filter_recitactivity,3.10,3.11,3.9,https://moodle.org/plugins/download.php/27808/filter_recitactivity_moodle311_2022100100.zip
 filter_rtmp,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,https://moodle.org/plugins/download.php/10250/filter_rtmp_moodle27_2013052007.zip
 filter_sagecell,3.4,https://moodle.org/plugins/download.php/15929/filter_sagecell_moodle34_2018013000.zip
@@ -826,6 +826,7 @@ format_psg,3.10,3.11,3.4,3.9,https://moodle.org/plugins/download.php/26811/forma
 format_redirected,3.10,3.11,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25246/format_redirected_moodle311_2021100500.zip
 format_remuiformat,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26671/format_remuiformat_moodle40_2022120500.zip
 format_scormcloud,2.0,2.1,https://moodle.org/plugins/download.php/47/format_scormcloud_moodle21_2011090201.zip
+format_sections,4.0,https://moodle.org/plugins/download.php/27824/format_sections_moodle40_2022102700.zip
 format_singleactivity,2.4,2.5,https://moodle.org/plugins/download.php/3249/format_singleactivity_moodle25_2013062400.zip
 format_socialwall,2.7,2.8,2.9,3.0,3.3,https://moodle.org/plugins/download.php/16327/format_socialwall_moodle33_2018030700.zip
 format_softcourse,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26442/format_softcourse_moodle40_2022041301.zip
@@ -958,7 +959,7 @@ local_importtosection,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21
 local_innoedtools,3.1,https://moodle.org/plugins/download.php/14384/local_innoedtools_moodle31_2017070901.zip
 local_institutions,2.2,2.3,2.4,https://moodle.org/plugins/download.php/3398/local_institutions_moodle24_2013040100.zip
 local_instructor_files,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/21720/local_instructor_files_moodle40_2020061500.zip
-local_intelliboard,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26273/local_intelliboard_moodle40_2022032204.zip
+local_intelliboard,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27827/local_intelliboard_moodle40_2022103104.zip
 local_invitation,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/26583/local_invitation_moodle40_2022042901.zip
 local_jquery,2.4,https://moodle.org/plugins/download.php/2156/local_jquery_moodle24_2013010900.zip
 local_kopere_dashboard,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27195/local_kopere_dashboard_moodle40_2022072700.zip
@@ -1416,7 +1417,7 @@ plagiarism_copyleaks,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugin
 plagiarism_crot,2.0,2.1,2.2,2.3,2.4,2.5,https://moodle.org/plugins/download.php/4032/plagiarism_crot_moodle25_2013061400.zip
 plagiarism_crotpro,2.0,2.1,2.2,2.3,https://moodle.org/plugins/download.php/1656/plagiarism_crotpro_moodle23_2012110500.zip
 plagiarism_drillbit,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26657/plagiarism_drillbit_moodle40_2022032318.zip
-plagiarism_pchkorg,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27815/plagiarism_pchkorg_moodle40_2022102718.zip
+plagiarism_pchkorg,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27823/plagiarism_pchkorg_moodle40_2022103115.zip
 plagiarism_plagiarisma,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,3.3,https://moodle.org/plugins/download.php/14755/plagiarism_plagiarisma_moodle33_2017080700.zip
 plagiarism_plagiarismsearch,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27247/plagiarism_plagiarismsearch_moodle40_2022080100.zip
 plagiarism_plagscan,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25405/plagiarism_plagscan_moodle311_2021110302.zip
