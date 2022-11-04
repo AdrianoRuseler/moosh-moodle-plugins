@@ -105,7 +105,7 @@ atto_teamsmeeting,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://mood
 atto_templates,3.2,3.3,3.4,3.6,https://moodle.org/plugins/download.php/20990/atto_templates_moodle36_2020013000.zip
 atto_templates4u,3.10,3.11,3.7,3.8,3.9,https://moodle.org/plugins/download.php/24380/atto_templates4u_moodle311_2020062501.zip
 atto_translations,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/27129/atto_translations_moodle40_2021121311.zip
-atto_ubicast,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27575/atto_ubicast_moodle40_2022092000.zip
+atto_ubicast,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27834/atto_ubicast_moodle40_2022110300.zip
 atto_wiris,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27772/atto_wiris_moodle40_2022102000.zip
 atto_wordcount,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26179/atto_wordcount_moodle40_2022031900.zip
 atto_wordimport,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/25051/atto_wordimport_moodle40_2021083100.zip
@@ -996,7 +996,7 @@ local_mobile,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,https://moodle.org/plug
 local_modcustomfields,3.10,3.11,3.7,3.8,3.9,https://moodle.org/plugins/download.php/26041/local_modcustomfields_moodle311_2022021700.zip
 local_moodlecheck,2.0,2.1,2.2,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27592/local_moodlecheck_moodle40_2022060200.zip
 local_moodlecloudsignup,2.9,3.0,3.1,https://moodle.org/plugins/download.php/11428/local_moodlecloudsignup_moodle31_2016053111.zip
-local_moodlemobileapp,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26643/local_moodlemobileapp_moodle40_2022051000.zip
+local_moodlemobileapp,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27833/local_moodlemobileapp_moodle40_2022110300.zip
 local_moofactory_notification,3.10,3.11,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27710/local_moofactory_notification_moodle40_2022092800.zip
 local_mootivated,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25505/local_mootivated_moodle311_2021112000.zip
 local_morelockfactories,2.7,2.8,2.9,3.0,3.1,3.2,https://moodle.org/plugins/download.php/5808/local_morelockfactories_moodle32_2014041400.zip
@@ -1156,7 +1156,7 @@ mod_citizencam,3.2,3.3,3.4,https://moodle.org/plugins/download.php/15629/mod_cit
 mod_clearlesson,3.1,3.2,3.3,3.4,3.5,https://moodle.org/plugins/download.php/16828/mod_clearlesson_moodle35_2017091203.zip
 mod_clickview,3.11,https://moodle.org/plugins/download.php/25671/mod_clickview_moodle311_2021083003.zip
 mod_cobra,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/20727/mod_cobra_moodle39_2019112800.zip
-mod_collabora,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26328/mod_collabora_moodle40_2022030602.zip
+mod_collabora,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27837/mod_collabora_moodle40_2022041901.zip
 mod_collaborate,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/27752/mod_collaborate_moodle311_2022101200.zip
 mod_collaborativefolders,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21738/mod_collaborativefolders_moodle39_2020060600.zip
 mod_concordance,3.10,3.11,3.8,3.9,https://moodle.org/plugins/download.php/27585/mod_concordance_moodle311_2021110900.zip
@@ -1202,7 +1202,7 @@ mod_englishcentral,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https:/
 mod_enhancedchoice,2.1,2.2,2.3,2.4,3.1,3.2,3.3,https://moodle.org/plugins/download.php/14419/mod_enhancedchoice_moodle33_2017022801.zip
 mod_ensemblecontent,2.0,https://moodle.org/plugins/download.php/1221/mod_ensemblecontent_moodle20_2011112900.zip
 mod_etherpad,2.2,2.3,2.4,2.5,https://moodle.org/plugins/download.php/998/mod_etherpad_moodle25_2012062800.zip
-mod_etherpadlite,2.3,2.4,2.5,2.6,2.7,2.8,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27458/mod_etherpadlite_moodle40_2022083100.zip
+mod_etherpadlite,2.3,2.4,2.5,2.6,2.7,2.8,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27835/mod_etherpadlite_moodle40_2022083101.zip
 mod_evoting,3.0,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/22286/mod_evoting_moodle311_2020070700.zip
 mod_exagames,2.0,2.1,2.2,2.3,2.4,2.5,3.0,3.10,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/23690/mod_exagames_moodle310_2021022000.zip
 mod_exam,2.9,3.0,3.1,3.2,https://moodle.org/plugins/download.php/9121/mod_exam_moodle32_2015081100.zip
@@ -1729,7 +1729,7 @@ theme_bbytefusionmod,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,https://moodle.org/plug
 theme_bcu,2.6,2.7,2.8,2.9,https://moodle.org/plugins/download.php/8868/theme_bcu_moodle29_2015070100.zip
 theme_bhs_academy,2.3,https://moodle.org/plugins/download.php/1974/theme_bhs_academy_moodle23_2012102400.00.zip
 theme_binarius,2.7,https://moodle.org/plugins/download.php/5791/theme_binarius_moodle27_2014041400.zip
-theme_boost_campus,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/27057/theme_boost_campus_moodle311_2021122802.zip
+theme_boost_campus,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/27839/theme_boost_campus_moodle311_2021122803.zip
 theme_boost_magnific,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/20868/theme_boost_magnific_moodle38_2020010701.zip
 theme_boost_o365teams,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/26665/theme_boost_o365teams_moodle40_2022041900.zip
 theme_boost_union,4.0,https://moodle.org/plugins/download.php/27747/theme_boost_union_moodle40_2022080909.zip
