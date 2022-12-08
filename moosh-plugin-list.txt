@@ -117,7 +117,7 @@ auth_azuread,2.0,2.1,2.2,2.3,2.4,2.5,https://moodle.org/plugins/download.php/360
 auth_azureb2c,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/25299/auth_azureb2c_moodle40_2021101400.zip
 auth_bakery,2.2,https://moodle.org/plugins/download.php/2197/auth_bakery_moodle22_2013020500.zip
 auth_basic,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/24829/auth_basic_moodle311_2021073000.zip
-auth_casattras,3.10,3.11,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/26463/auth_casattras_moodle41_2022041500.zip
+auth_casattras,3.10,3.11,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28151/auth_casattras_moodle41_2022120600.zip
 auth_classlink,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/25455/auth_classlink_moodle40_2021111200.zip
 auth_dev,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/16760/auth_dev_moodle311_2018051600.zip
 auth_drupalservices,2.6,2.7,2.8,https://moodle.org/plugins/download.php/7627/auth_drupalservices_moodle28_2014123000.zip
@@ -462,7 +462,7 @@ block_onenote,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/11858/
 block_online_users_map,2.0,2.1,2.2,2.3,2.4,https://moodle.org/plugins/download.php/2817/block_online_users_map_moodle24_2013042000.zip
 block_onlinesurvey,3.11,3.8,4.0,https://moodle.org/plugins/download.php/27314/block_onlinesurvey_moodle40_2022072600.zip
 block_open_courses,3.0,3.1,3.2,3.3,3.4,https://moodle.org/plugins/download.php/16507/block_open_courses_moodle34_2018042600.zip
-block_openai_chat,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/27460/block_openai_chat_moodle40_2022083100.zip
+block_openai_chat,3.10,3.11,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28159/block_openai_chat_moodle41_2022120700.zip
 block_openbiblio,2.0,2.1,2.2,2.3,2.4,2.5,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/20709/block_openbiblio_moodle38_2019011281.zip
 block_opencast,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26223/block_opencast_moodle40_2022032000.zip
 block_openscout,2.0,https://moodle.org/plugins/download.php/958/block_openscout_moodle20_2011072001.zip
@@ -915,7 +915,7 @@ local_configlogemailer,2.4,2.5,https://moodle.org/plugins/download.php/3690/loca
 local_configtabs,1.9,https://moodle.org/plugins/download.php/123/local_configtabs_moodle19_2001030700.zip
 local_confseed,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21628/local_confseed_moodle39_2018043000.zip
 local_contact,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26553/local_contact_moodle40_2022042501.zip
-local_contactlist,3.10,3.11,4.0,https://moodle.org/plugins/download.php/27553/local_contactlist_moodle40_2022070401.zip
+local_contactlist,3.10,3.11,4.0,4.1,https://moodle.org/plugins/download.php/28150/local_contactlist_moodle41_2022120100.zip
 local_course_announcement,3.0,3.1,https://moodle.org/plugins/download.php/12849/local_course_announcement_moodle31_2016120903.zip
 local_course_merge,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/22798/local_course_merge_moodle41_2020110900.zip
 local_course_template,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/26480/local_course_template_moodle41_2022041800.zip
@@ -1109,7 +1109,7 @@ logstore_graylog,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/128
 logstore_lanalytics,3.10,3.11,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27373/logstore_lanalytics_moodle40_2022081800.zip
 logstore_splunk,3.0,3.1,https://moodle.org/plugins/download.php/11098/logstore_splunk_moodle31_2016041900.zip
 logstore_trax,3.5,3.9,https://moodle.org/plugins/download.php/25342/logstore_trax_moodle39_2020060900.zip
-logstore_xapi,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27762/logstore_xapi_moodle40_2022101800.zip
+logstore_xapi,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/27762/logstore_xapi_moodle41_2022101800.zip
 ltisource_ecohub,3.3,https://moodle.org/plugins/download.php/16843/ltisource_ecohub_moodle33_2018041700.zip
 ltisource_message_handler,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/21302/ltisource_message_handler_moodle311_2020040300.zip
 media_jwplayer,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25954/media_jwplayer_moodle311_2022020500.zip
@@ -1285,7 +1285,7 @@ mod_mindmap,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.
 mod_minilesson,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28109/mod_minilesson_moodle41_2022120200.zip
 mod_moodecgrpmanagement,3.2,3.3,3.4,3.5,3.6,3.7,https://moodle.org/plugins/download.php/20290/mod_moodecgrpmanagement_moodle37_2019091700.zip
 mod_moodlenet,3.7,3.8,https://moodle.org/plugins/download.php/21605/mod_moodlenet_moodle38_2020031302.zip
-mod_moodleoverflow,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27423/mod_moodleoverflow_moodle40_2022082500.zip
+mod_moodleoverflow,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28149/mod_moodleoverflow_moodle41_2022120600.zip
 mod_mootyper,2.2,2.3,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26309/mod_mootyper_moodle40_2022040300.zip
 mod_movilquizlite,2.1,https://moodle.org/plugins/download.php/293/mod_movilquizlite_moodle21_2011091001.zip
 mod_mplayer,1.9,3.0,3.1,https://moodle.org/plugins/download.php/13468/mod_mplayer_moodle30_2016033101.zip
@@ -1315,7 +1315,7 @@ mod_pagemenu,2.4,2.5,2.6,2.7,2.8,2.9,3.0,https://moodle.org/plugins/download.php
 mod_panopto,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26932/mod_panopto_moodle40_2022062300.zip
 mod_pbm,2.6,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,https://moodle.org/plugins/download.php/17673/mod_pbm_moodle35_2018082100.zip
 mod_pcast,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/27992/mod_pcast_moodle41_2022112200.zip
-mod_pdfannotator,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/28071/mod_pdfannotator_moodle40_2022112800.zip
+mod_pdfannotator,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/28155/mod_pdfannotator_moodle40_2022120500.zip
 mod_pdfjsfolder,2.4,2.5,2.6,https://moodle.org/plugins/download.php/4972/mod_pdfjsfolder_moodle26_2013120300.zip
 mod_pdfpager,2.0,2.1,https://moodle.org/plugins/download.php/938/mod_pdfpager_moodle21_2012062000.zip
 mod_pdfparts,2.5,https://moodle.org/plugins/download.php/4409/mod_pdfparts_moodle25_2013090100.zip
@@ -1452,7 +1452,7 @@ portfolio_evernote,2.3,2.4,2.5,https://moodle.org/plugins/download.php/4297/port
 profilefield_afaqr,2.7,https://moodle.org/plugins/download.php/7340/profilefield_afaqr_moodle27_2014110500.zip
 profilefield_associated,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/23487/profilefield_associated_moodle310_2021021600.zip
 profilefield_autocomplete,3.10,3.11,3.9,https://moodle.org/plugins/download.php/27125/profilefield_autocomplete_moodle311_2022071900.zip
-profilefield_brasilufmunicipio,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/27537/profilefield_brasilufmunicipio_moodle40_2022091200.zip
+profilefield_brasilufmunicipio,3.10,3.11,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28148/profilefield_brasilufmunicipio_moodle41_2022120600.zip
 profilefield_certificateswall,2.0,2.1,2.2,2.3,2.4,https://moodle.org/plugins/download.php/880/profilefield_certificateswall_moodle24_2012052400.zip
 profilefield_conditional,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.8,3.9,https://moodle.org/plugins/download.php/25909/profilefield_conditional_moodle311_2022012800.zip
 profilefield_cpf,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.2,3.3,3.4,3.5,3.6,3.8,3.9,https://moodle.org/plugins/download.php/5944/profilefield_cpf_moodle310_2014041700.zip
@@ -1902,7 +1902,7 @@ tool_bulkchangeprofilefields,3.11,4.0,https://moodle.org/plugins/download.php/26
 tool_bulkemail,3.10,3.11,3.9,https://moodle.org/plugins/download.php/23296/tool_bulkemail_moodle311_2021012701.zip
 tool_capexplorer,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/11968/tool_capexplorer_moodle31_2016081100.zip
 tool_certificate,3.10,3.11,3.9,4.0,4.1,https://moodle.org/plugins/download.php/27931/tool_certificate_moodle41_2022111500.zip
-tool_clearbackupfiles,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/24670/tool_clearbackupfiles_moodle39_2021070500.zip
+tool_clearbackupfiles,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28156/tool_clearbackupfiles_moodle40_2022120600.zip
 tool_cmcompetency,3.11,3.8,https://moodle.org/plugins/download.php/27598/tool_cmcompetency_moodle311_2021111000.zip
 tool_cmdlinetools,3.0,https://moodle.org/plugins/download.php/12363/tool_cmdlinetools_moodle30_2016100600.zip
 tool_cohortautoroles,3.1,https://moodle.org/plugins/download.php/12388/tool_cohortautoroles_moodle31_2016101100.zip
@@ -1955,7 +1955,7 @@ tool_moodledt,2.4,2.5,2.6,2.7,https://moodle.org/plugins/download.php/5970/tool_
 tool_moodlenet,3.7,3.8,https://moodle.org/plugins/download.php/21945/tool_moodlenet_moodle38_2020030502.zip
 tool_my_external_backup_restore_courses_admin,3.0,https://moodle.org/plugins/download.php/12365/tool_my_external_backup_restore_courses_admin_moodle30_2016030900.zip
 tool_navdb,3.5,3.6,3.7,https://moodle.org/plugins/download.php/20237/tool_navdb_moodle37_2019090901.zip
-tool_objectfs,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,4.0,https://moodle.org/plugins/download.php/27618/tool_objectfs_moodle40_2022070401.zip
+tool_objectfs,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,4.0,4.1,https://moodle.org/plugins/download.php/28158/tool_objectfs_moodle41_2022120800.zip
 tool_opcache,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27318/tool_opcache_moodle40_2022071201.zip
 tool_opencast,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26216/tool_opencast_moodle40_2022032000.zip
 tool_passwordvalidator,3.6,3.7,3.8,https://moodle.org/plugins/download.php/20626/tool_passwordvalidator_moodle38_2019080100.zip
