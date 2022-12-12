@@ -669,7 +669,7 @@ enrol_dps,2011121300,https://moodle.org/plugins/download.php/348/enrol_dps_moodl
 enrol_easy,2017050100,2017052300,2018051500,2018081600,2018090600,2019081900,2019090300,2020120200,2020120700,https://moodle.org/plugins/download.php/23046/enrol_easy_moodle310_2020120700.zip
 enrol_elediacohortgreeting,2013031400,2014101400,2016060700,2019010300,2020110900,https://moodle.org/plugins/download.php/27478/enrol_elediacohortgreeting_moodle40_2020110900.zip
 enrol_elightenment,2015031400,https://moodle.org/plugins/download.php/8182/enrol_elightenment_moodle28_2015031400.zip
-enrol_extendedguest,2018070200,https://moodle.org/plugins/download.php/17294/enrol_extendedguest_moodle40_2018070200.zip
+enrol_extendedguest,2018070200,https://moodle.org/plugins/download.php/17294/enrol_extendedguest_moodle41_2018070200.zip
 enrol_grabber,2016022900,2016111000,https://moodle.org/plugins/download.php/12561/enrol_grabber_moodle39_2016111000.zip
 enrol_groupsync,2012122000,2016052000,2017050900,2017110900,2018060600,2018113000,2019111200,https://moodle.org/plugins/download.php/21712/enrol_groupsync_moodle40_2019111200.zip
 enrol_guestcohort,2017120600,2017120800,2018010200,2021081501,https://moodle.org/plugins/download.php/24939/enrol_guestcohort_moodle311_2021081501.zip
@@ -735,7 +735,7 @@ filter_embedquestion,2018062702,2018071200,2018071300,2018092500,2018111900,2019
 filter_ensemble,2013040900,2013082800,2013082801,2014032401,2014052900,2015060400,2015060500,2015060501,2016042800,2016082300,2017030200,2017052300,2018012200,2018060600,2018060601,2018060602,2018121700,2019073101,2020052000,2020081200,https://moodle.org/plugins/download.php/22216/filter_ensemble_moodle39_2020081200.zip
 filter_estreamauth,2017030100,2017032000,2021031000,2021122300,https://moodle.org/plugins/download.php/25727/filter_estreamauth_moodle40_2021122300.zip
 filter_filmsondemand,2018102900,2018110800,https://moodle.org/plugins/download.php/19509/filter_filmsondemand_moodle36_2018110800.zip
-filter_filtercodes,2022060700,https://moodle.org/plugins/download.php/26782/filter_filtercodes_moodle40_2022060700.zip
+filter_filtercodes,2022060700,2022121100,2022121101,https://moodle.org/plugins/download.php/28173/filter_filtercodes_moodle41_2022121101.zip
 filter_filtermenu,2012111600,https://moodle.org/plugins/download.php/1699/filter_filtermenu_moodle25_2012111600.zip
 filter_flowchart,2015050921,https://moodle.org/plugins/download.php/8505/filter_flowchart_moodle28_2015050921.zip
 filter_fontawesome,2019040502,2019052202,2020051000,2020062400,2020111600,2021052600,2022101200,2022101201,https://moodle.org/plugins/download.php/27718/filter_fontawesome_moodle40_2022101201.zip
@@ -770,7 +770,7 @@ filter_scratch,2011122400,https://moodle.org/plugins/download.php/383/filter_scr
 filter_scratchembed,2011041700,https://moodle.org/plugins/download.php/119/filter_scratchembed_moodle20_2011041700.zip
 filter_screencast,2012020203,2012031301,https://moodle.org/plugins/download.php/615/filter_screencast_moodle22_2012031301.zip
 filter_sectionnames,2019041700,https://moodle.org/plugins/download.php/19385/filter_sectionnames_moodle311_2019041700.zip
-filter_shortcodes,2018050800,2021012600,2021100400,https://moodle.org/plugins/download.php/25235/filter_shortcodes_moodle41_2021100400.zip
+filter_shortcodes,2022121200,https://moodle.org/plugins/download.php/28177/filter_shortcodes_moodle41_2022121200.zip
 filter_silverlight,2013041800,https://moodle.org/plugins/download.php/3085/filter_silverlight_moodle25_2013041800.zip
 filter_simplequestion,2017101104,2017110602,2017111601,2017120202,2017120801,2018061200,2018062600,https://moodle.org/plugins/download.php/17239/filter_simplequestion_moodle35_2018062600.zip
 filter_simplespeak,2011050700,https://moodle.org/plugins/download.php/118/filter_simplespeak_moodle20_2011050700.zip
@@ -914,7 +914,7 @@ local_configeditor,2011122300,https://moodle.org/plugins/download.php/377/local_
 local_configlogemailer,2013072202,2013082200,2013082201,https://moodle.org/plugins/download.php/3690/local_configlogemailer_moodle25_2013082201.zip
 local_configtabs,2001030700,https://moodle.org/plugins/download.php/123/local_configtabs_moodle19_2001030700.zip
 local_confseed,2018043000,https://moodle.org/plugins/download.php/21628/local_confseed_moodle39_2018043000.zip
-local_contact,2022042501,https://moodle.org/plugins/download.php/26553/local_contact_moodle40_2022042501.zip
+local_contact,2022042501,2022121100,https://moodle.org/plugins/download.php/28171/local_contact_moodle41_2022121100.zip
 local_contactlist,2020070600,2022070400,2022070401,2022120100,https://moodle.org/plugins/download.php/28150/local_contactlist_moodle41_2022120100.zip
 local_course_announcement,2016120903,https://moodle.org/plugins/download.php/12849/local_course_announcement_moodle31_2016120903.zip
 local_course_merge,2016040601,2016062200,2016080900,2016102700,2016110800,2016122100,2017042401,2017062100,2017072800,2017082500,2018011700,2018051300,2018112700,2018112701,2018112702,2018112703,2020110900,https://moodle.org/plugins/download.php/22798/local_course_merge_moodle41_2020110900.zip
@@ -992,7 +992,7 @@ local_ltiprovider,2011121701,2011121702,2011121703,2011121705,2011121706,2011121
 local_macromucho,2019092403,2020020701,2020022701,https://moodle.org/plugins/download.php/21112/local_macromucho_moodle38_2020022701.zip
 local_mahara,2013062314,https://moodle.org/plugins/download.php/3468/local_mahara_moodle25_2013062314.zip
 local_mail,2014102000,2015061200,2015072300,2015101400,2016060100,2017012101,2017012102,2017012103,2017070406,2017121402,2017121403,2017121404,2017121405,2017121406,2017121407,https://moodle.org/plugins/download.php/26393/local_mail_moodle41_2017121407.zip
-local_mailtest,2022042400,https://moodle.org/plugins/download.php/26523/local_mailtest_moodle40_2022042400.zip
+local_mailtest,2022042400,2022121100,https://moodle.org/plugins/download.php/28172/local_mailtest_moodle41_2022121100.zip
 local_maintenance_livecheck,2017063000,2017112400,2018051700,2018052900,2019012100,2019070900,2020021400,2021102604,2022071200,https://moodle.org/plugins/download.php/27251/local_maintenance_livecheck_moodle40_2022071200.zip
 local_map,2013120300,https://moodle.org/plugins/download.php/4985/local_map_moodle26_2013120300.zip
 local_mass_enroll,2012012415,2015092402,https://moodle.org/plugins/download.php/14468/local_mass_enroll_moodle33_2015092402.zip
@@ -1358,7 +1358,7 @@ mod_sharedresource,2013050100,2015072701,https://moodle.org/plugins/download.php
 mod_sharedurl,2021012700,2021021000,2021080900,2021080901,https://moodle.org/plugins/download.php/24912/mod_sharedurl_moodle311_2021080901.zip
 mod_simplecertificate,2017013001,2017091800,2017100300,2017120400,2018080400,2018082000,2020041238,https://moodle.org/plugins/download.php/21341/mod_simplecertificate_moodle38_2020041238.zip
 mod_simplelesson,2018082300,2018083003,2018090400,2019102600,2020030200,2022042400,2022050201,https://moodle.org/plugins/download.php/26591/mod_simplelesson_moodle40_2022050201.zip
-mod_skype,2014090700,2020052000,2021012900,2021042800,2022031600,2022062900,https://moodle.org/plugins/download.php/26945/mod_skype_moodle40_2022062900.zip
+mod_skype,2014090700,2020052000,2021012900,2021042800,2022031600,2022062900,2022120200,https://moodle.org/plugins/download.php/28175/mod_skype_moodle41_2022120200.zip
 mod_smartchoice,2016102800,https://moodle.org/plugins/download.php/12508/mod_smartchoice_moodle31_2016102800.zip
 mod_sna,2017030300,https://moodle.org/plugins/download.php/13370/mod_sna_moodle34_2017030300.zip
 mod_socialwiki,2015070900,2015072500,2015101500,2016081800,2016090700,2016100600,2017010100,https://moodle.org/plugins/download.php/12964/mod_socialwiki_moodle32_2017010100.zip
@@ -1415,7 +1415,7 @@ mod_wims,2020021900,2020060500,2020062900,2020072300,2021031600,2021031900,20210
 mod_wooclap,2018080208,2019062111,2019062400,2019101500,2019120100,2020102900,2021062500,2021122000,2022011600,2022012800,2022061600,https://moodle.org/plugins/download.php/26851/mod_wooclap_moodle40_2022061600.zip
 mod_wooflash,2020061500,2020092200,2020121100,https://moodle.org/plugins/download.php/23083/mod_wooflash_moodle40_2020121100.zip
 mod_wordcards,2020050200,2020070500,2020071500,2020071700,2020091300,2020100200,2020111001,2020111700,2020112500,2020121100,2020122500,2021012400,2021013100,2021040100,2021052500,2021052900,2021083100,2021090700,2021110500,2021112100,2021120200,2021122200,2022012000,2022022300,2022031300,2022032800,2022041300,2022050200,2022060500,2022100700,2022112700,https://moodle.org/plugins/download.php/28054/mod_wordcards_moodle41_2022112700.zip
-mod_wordcloud,2021060200,2022041200,2022042500,2022061700,https://moodle.org/plugins/download.php/26933/mod_wordcloud_moodle40_2022061700.zip
+mod_wordcloud,2021060200,2022041200,2022042500,2022061700,2022120100,https://moodle.org/plugins/download.php/28176/mod_wordcloud_moodle41_2022120100.zip
 mod_znaniumcombook,2021011000,https://moodle.org/plugins/download.php/23202/mod_znaniumcombook_moodle311_2021011000.zip
 mod_znanja,2013040400,https://moodle.org/plugins/download.php/2501/mod_znanja_moodle24_2013040400.zip
 mod_zoom,2018092200,2019053100,2019080100,2020061200,2020090400,2020091400,2020120800,2021031000,2021031400,2021041300,2021071300,2021072200,2021081900,2021082600,2021090200,2021093000,2021110400,2021111100,2021111700,2021111800,2021120900,2022012000,2022022400,2022031000,2022040800,2022042100,2022042900,2022051900,2022060200,2022071500,2022080400,2022081800,2022092200,2022092900,2022102000,2022110300,2022111700,https://moodle.org/plugins/download.php/27953/mod_zoom_moodle41_2022111700.zip
