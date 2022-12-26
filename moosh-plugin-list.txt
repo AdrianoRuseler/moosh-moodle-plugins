@@ -1391,7 +1391,7 @@ mod_tutorialbooking,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.6,3.8,3.9,ht
 mod_typorepo,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/26421/mod_typorepo_moodle40_2022041200.zip
 mod_ubicast,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27577/mod_ubicast_moodle40_2022092000.zip
 mod_unedtrivial,3.0,3.1,3.2,3.3,https://moodle.org/plugins/download.php/15816/mod_unedtrivial_moodle33_2017061900.zip
-mod_unilabel,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28093/mod_unilabel_moodle41_2022042000.zip
+mod_unilabel,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28245/mod_unilabel_moodle41_2022042001.zip
 mod_verbalfeedback,3.10,3.11,3.9,4.0,https://moodle.org/plugins/download.php/27546/mod_verbalfeedback_moodle40_2022091400.zip
 mod_verbosity,1.9,https://moodle.org/plugins/download.php/427/mod_verbosity_moodle19_2012011001.zip
 mod_via,2.6,2.7,2.8,2.9,3.0,3.10,3.1,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27799/mod_via_moodle40_2022060702.zip
