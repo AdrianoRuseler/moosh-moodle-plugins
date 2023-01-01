@@ -708,7 +708,7 @@ fileconverter_librelambda,2019033100,2022011500,https://moodle.org/plugins/downl
 fileconverter_onedrive,2018060100,2018071300,2018121300,2019010800,2019020800,2019051300,2019120500,2020110600,2022050600,https://moodle.org/plugins/download.php/26756/fileconverter_onedrive_moodle40_2022050600.zip
 fileconverter_onlyoffice,2019122200,https://moodle.org/plugins/download.php/20834/fileconverter_onlyoffice_moodle39_2019122200.zip
 filter_akamaitoken,2020092700,https://moodle.org/plugins/download.php/23415/filter_akamaitoken_moodle310_2020092700.zip
-filter_ally,2017120800,2017120803,2018080800,2018080801,2020061100,2021060100,2021092200,2021112600,2022041300,2022060600,2022072900,2022101200,2022101800,https://moodle.org/plugins/download.php/27788/filter_ally_moodle40_2022101800.zip
+filter_ally,2017120800,2017120803,2018080800,2018080801,2020061100,2021060100,2021092200,2021112600,2022041300,2022060600,2022072900,2022101200,2022101800,2022122100,https://moodle.org/plugins/download.php/28263/filter_ally_moodle40_2022122100.zip
 filter_amanote,2020020600,2020020601,2020021203,2020030905,2020031601,2020033101,2020033104,2020051301,2020061101,2020070202,2021031204,2021050602,2021080701,2021090602,2021090803,2021111701,2022030805,2022040701,2022071112,2022092603,2022100601,2022112303,https://moodle.org/plugins/download.php/27998/filter_amanote_moodle41_2022112303.zip
 filter_applink,2019061400,2019061401,https://moodle.org/plugins/download.php/19795/filter_applink_moodle37_2019061401.zip
 filter_autolinkhijacker,2011072301,https://moodle.org/plugins/download.php/4592/filter_autolinkhijacker_moodle20_2011072301.zip
@@ -1077,7 +1077,7 @@ local_tdmmodatcursor,2014021400,2014050300,2014052800,2014052801,https://moodle.
 local_tdmmodnotify,2014021400,2014060400,https://moodle.org/plugins/download.php/6211/local_tdmmodnotify_moodle26_2014060400.zip
 local_technicalsignals,2012060100,2015062400,https://moodle.org/plugins/download.php/13282/local_technicalsignals_moodle32_2015062400.zip
 local_temporary_enrolments,2018092634,2018092635,2019031334,2019031335,2019031336,https://moodle.org/plugins/download.php/19177/local_temporary_enrolments_moodle36_2019031336.zip
-local_twittercard,2021052300,2022042400,https://moodle.org/plugins/download.php/26525/local_twittercard_moodle40_2022042400.zip
+local_twittercard,2022042400,2022123100,https://moodle.org/plugins/download.php/28266/local_twittercard_moodle41_2022123100.zip
 local_unusedquestions,2015020901,https://moodle.org/plugins/download.php/7946/local_unusedquestions_moodle28_2015020901.zip
 local_upgradedb,2013021400,2015100500,2017050500,2018051600,https://moodle.org/plugins/download.php/16759/local_upgradedb_moodle311_2018051600.zip
 local_uploadnotification,2017101800,2018010702,2018050600,https://moodle.org/plugins/download.php/16556/local_uploadnotification_moodle37_2018050600.zip
@@ -1619,7 +1619,7 @@ quizaccess_useripmapping,2017102400,2017110700,2017111301,https://moodle.org/plu
 quizaccess_wifiresilience,2021050300,2022082600,https://moodle.org/plugins/download.php/27763/quizaccess_wifiresilience_moodle40_2022082600.zip
 report_advancedgrading,2022021203,https://moodle.org/plugins/download.php/26247/report_advancedgrading_moodle41_2022021203.zip
 report_allbackups,2020101300,2020120200,2021022001,2022031501,https://moodle.org/plugins/download.php/26133/report_allbackups_moodle41_2022031501.zip
-report_allylti,2017120800,2017120801,2018080800,2018080801,2020061100,2021060100,2021112600,2022041300,2022060600,2022072900,2022101200,2022101800,https://moodle.org/plugins/download.php/27789/report_allylti_moodle40_2022101800.zip
+report_allylti,2017120800,2017120801,2018080800,2018080801,2020061100,2021060100,2021112600,2022041300,2022060600,2022072900,2022101200,2022101800,2022122100,https://moodle.org/plugins/download.php/28264/report_allylti_moodle40_2022122100.zip
 report_apocalypse,2018120600,2019022001,2019080200,https://moodle.org/plugins/download.php/20033/report_apocalypse_moodle38_2019080200.zip
 report_assign,2019072100,2019080200,2019080501,2019091100,2019091101,2019091102,2020051801,2021061800,2021062200,2022051800,https://moodle.org/plugins/download.php/26702/report_assign_moodle40_2022051800.zip
 report_assignment_files,2013091500,https://moodle.org/plugins/download.php/4126/report_assignment_files_moodle25_2013091500.zip
@@ -1892,7 +1892,7 @@ tinymce_youtube,2013042200,2013050300,2013050700,2014092400,https://moodle.org/p
 tool_abconfig,2019122000,2020030600,2020032400,2022062201,2022070600,https://moodle.org/plugins/download.php/27003/tool_abconfig_moodle40_2022070600.zip
 tool_adhoc,2015081200,2016041800,2016042000,2016052500,https://moodle.org/plugins/download.php/11375/tool_adhoc_moodle31_2016052500.zip
 tool_advancedspamcleaner,2012121900,2013042900,2013091800,2015011900,2017013100,2017122500,2019031300,2019092800,2020101202,https://moodle.org/plugins/download.php/22661/tool_advancedspamcleaner_moodle39_2020101202.zip
-tool_ally,2017120800,2017120824,2018080800,2018080804,2018080805,2018080810,2018080816,2019061200,2019061201,2020061100,2020061101,2020061102,2021060101,2021112600,2022041300,2022060600,2022072900,2022101200,2022101800,https://moodle.org/plugins/download.php/27787/tool_ally_moodle40_2022101800.zip
+tool_ally,2017120800,2017120824,2018080800,2018080804,2018080805,2018080810,2018080816,2019061200,2019061201,2020061100,2020061101,2020061102,2021060101,2021112600,2022041300,2022060600,2022072900,2022101200,2022101800,2022122100,https://moodle.org/plugins/download.php/28265/tool_ally_moodle40_2022122100.zip
 tool_apcu,2020050305,2020092800,2021120802,2022071200,https://moodle.org/plugins/download.php/27319/tool_apcu_moodle40_2022071200.zip
 tool_asynccourseimport,2019061401,https://moodle.org/plugins/download.php/20242/tool_asynccourseimport_moodle37_2019061401.zip
 tool_attestoodle,2020071301,2021051901,2022012900,2022020300,https://moodle.org/plugins/download.php/25938/tool_attestoodle_moodle311_2022020300.zip

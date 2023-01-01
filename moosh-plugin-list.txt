@@ -708,7 +708,7 @@ fileconverter_librelambda,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/p
 fileconverter_onedrive,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26756/fileconverter_onedrive_moodle40_2022050600.zip
 fileconverter_onlyoffice,3.7,3.8,3.9,https://moodle.org/plugins/download.php/20834/fileconverter_onlyoffice_moodle39_2019122200.zip
 filter_akamaitoken,3.10,3.7,3.8,3.9,https://moodle.org/plugins/download.php/23415/filter_akamaitoken_moodle310_2020092700.zip
-filter_ally,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27788/filter_ally_moodle40_2022101800.zip
+filter_ally,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/28263/filter_ally_moodle40_2022122100.zip
 filter_amanote,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/27998/filter_amanote_moodle41_2022112303.zip
 filter_applink,3.1,3.2,3.3,3.4,3.5,3.6,3.7,https://moodle.org/plugins/download.php/19795/filter_applink_moodle37_2019061401.zip
 filter_autolinkhijacker,2.0,https://moodle.org/plugins/download.php/4592/filter_autolinkhijacker_moodle20_2011072301.zip
@@ -1077,7 +1077,7 @@ local_tdmmodatcursor,2.6,2.7,https://moodle.org/plugins/download.php/6189/local_
 local_tdmmodnotify,2.6,https://moodle.org/plugins/download.php/6211/local_tdmmodnotify_moodle26_2014060400.zip
 local_technicalsignals,2.1,2.2,2.3,2.7,2.8,2.9,3.0,3.1,3.2,https://moodle.org/plugins/download.php/13282/local_technicalsignals_moodle32_2015062400.zip
 local_temporary_enrolments,3.4,3.5,3.6,https://moodle.org/plugins/download.php/19177/local_temporary_enrolments_moodle36_2019031336.zip
-local_twittercard,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26525/local_twittercard_moodle40_2022042400.zip
+local_twittercard,3.10,3.11,3.4,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/28266/local_twittercard_moodle41_2022123100.zip
 local_unusedquestions,2.7,2.8,https://moodle.org/plugins/download.php/7946/local_unusedquestions_moodle28_2015020901.zip
 local_upgradedb,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.10,3.11,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/16759/local_upgradedb_moodle311_2018051600.zip
 local_uploadnotification,3.3,3.4,3.5,3.6,3.7,https://moodle.org/plugins/download.php/16556/local_uploadnotification_moodle37_2018050600.zip
@@ -1619,7 +1619,7 @@ quizaccess_useripmapping,3.3,3.4,https://moodle.org/plugins/download.php/16029/q
 quizaccess_wifiresilience,3.10,3.11,4.0,https://moodle.org/plugins/download.php/27763/quizaccess_wifiresilience_moodle40_2022082600.zip
 report_advancedgrading,3.10,3.11,3.9,4.0,4.1,https://moodle.org/plugins/download.php/26247/report_advancedgrading_moodle41_2022021203.zip
 report_allbackups,3.10,3.5,3.6,3.7,3.8,3.9,4.0,4.1,https://moodle.org/plugins/download.php/26133/report_allbackups_moodle41_2022031501.zip
-report_allylti,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27789/report_allylti_moodle40_2022101800.zip
+report_allylti,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/28264/report_allylti_moodle40_2022122100.zip
 report_apocalypse,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,https://moodle.org/plugins/download.php/20033/report_apocalypse_moodle38_2019080200.zip
 report_assign,3.10,3.11,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/26702/report_assign_moodle40_2022051800.zip
 report_assignment_files,2.4,2.5,https://moodle.org/plugins/download.php/4126/report_assignment_files_moodle25_2013091500.zip
@@ -1892,7 +1892,7 @@ tinymce_youtube,2.4,2.5,2.6,2.7,https://moodle.org/plugins/download.php/6925/tin
 tool_abconfig,3.10,3.11,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27003/tool_abconfig_moodle40_2022070600.zip
 tool_adhoc,2.7,2.8,2.9,3.0,3.1,https://moodle.org/plugins/download.php/11375/tool_adhoc_moodle31_2016052500.zip
 tool_advancedspamcleaner,2.3,2.4,2.5,2.6,2.7,2.8,3.0,3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9,https://moodle.org/plugins/download.php/22661/tool_advancedspamcleaner_moodle39_2020101202.zip
-tool_ally,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/27787/tool_ally_moodle40_2022101800.zip
+tool_ally,3.10,3.11,3.3,3.4,3.5,3.6,3.7,3.8,3.9,4.0,https://moodle.org/plugins/download.php/28265/tool_ally_moodle40_2022122100.zip
 tool_apcu,3.11,3.7,3.8,4.0,https://moodle.org/plugins/download.php/27319/tool_apcu_moodle40_2022071200.zip
 tool_asynccourseimport,3.5,3.6,3.7,https://moodle.org/plugins/download.php/20242/tool_asynccourseimport_moodle37_2019061401.zip
 tool_attestoodle,3.10,3.11,3.7,3.8,3.9,https://moodle.org/plugins/download.php/25938/tool_attestoodle_moodle311_2022020300.zip
